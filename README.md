@@ -1,1 +1,1 @@
-# CSCN8000_MidtermPartB-iris_flower-
+This project uses the iris flower datasets from sklearn to do cross_val_score against the logistic regression model to measure the performance of each. 
